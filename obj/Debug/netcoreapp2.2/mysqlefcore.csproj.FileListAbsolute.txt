@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/EFTest/mysqlefcore/obj/Debug/netcoreapp2.2/mysqlefcore.csprojAssemblyReference.cache
+/Users/Guest/Desktop/EFTest/mysqlefcore/obj/Debug/netcoreapp2.2/mysqlefcore.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/EFTest/mysqlefcore/obj/Debug/netcoreapp2.2/mysqlefcore.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/EFTest/mysqlefcore/obj/Debug/netcoreapp2.2/mysqlefcore.AssemblyInfo.cs
+/Users/Guest/Desktop/EFTest/mysqlefcore/bin/Debug/netcoreapp2.2/mysqlefcore.deps.json
+/Users/Guest/Desktop/EFTest/mysqlefcore/bin/Debug/netcoreapp2.2/mysqlefcore.runtimeconfig.json
+/Users/Guest/Desktop/EFTest/mysqlefcore/bin/Debug/netcoreapp2.2/mysqlefcore.runtimeconfig.dev.json
+/Users/Guest/Desktop/EFTest/mysqlefcore/bin/Debug/netcoreapp2.2/mysqlefcore.dll
+/Users/Guest/Desktop/EFTest/mysqlefcore/bin/Debug/netcoreapp2.2/mysqlefcore.pdb
+/Users/Guest/Desktop/EFTest/mysqlefcore/obj/Debug/netcoreapp2.2/mysqlefcore.dll
+/Users/Guest/Desktop/EFTest/mysqlefcore/obj/Debug/netcoreapp2.2/mysqlefcore.pdb
