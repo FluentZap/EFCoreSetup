@@ -13,6 +13,9 @@ namespace mysqlefcore
     {
       optionsBuilder.UseMySQL("server=localhost;database=library;user=root;password=root;port=8889;");
     }
+
+
+
   }
 
   public class Blog
@@ -31,6 +34,6 @@ namespace mysqlefcore
 
     public int BlogId { get; set; }
     public Blog Blog { get; set; }
-  }  
+  }
 
 }
